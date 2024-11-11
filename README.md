@@ -22,7 +22,7 @@
 <br />
 <div align="center">
   <a href="https://github.comV1sionaries/Landcover-Classification">
-    <img src="Images/logo.png" alt="Logo" width="80" height="80">
+    <img src="Misc/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Interpreter</h3>
