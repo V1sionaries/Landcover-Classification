@@ -94,9 +94,9 @@ Four students worked together to implement this project.
 <!-- CONNECT -->
 ### Connect With Us
 
-Blake Marshall - [LinkedIn](linkedin.com/in/blakemarshalll)  
+Blake Marshall - [LinkedIn](https://www.linkedin.com/in/blakemarshalll)  
 Sean Farmer - [LinkedIn](https://www.linkedin.com/in/sean-farmer-517ab8276/)  
-Jacob Sellers - [LinkedIn](linkedin.com/in/jacob-sellers-83840826a)  
+Jacob Sellers - [LinkedIn](https://www.linkedin.com/in/jacob-sellers-83840826a)  
 Isauro Ramos - [LinkedIn](https://www.linkedin.com/in/ramosisauro/)  
 
 <!-- LICENSE -->
