@@ -25,10 +25,10 @@
     <img src="Misc/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Interpreter</h3>
+<h3 align="center">Landcover Classifiation</h3>
 
   <p align="center">
-    An interpreter for the C language. 
+    A Compute Vision Model For Classifying Terrain.  
     <br />
     <br />
     <a href="https://github.com/V1sionaries/Landcover-Classification/blob/main/README.md"><strong>Explore the docs »</strong></a>
