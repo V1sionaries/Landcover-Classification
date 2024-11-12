@@ -74,7 +74,7 @@ This program was completed as a capstone project among four students at Sonoma S
 
   1. Clone the repo
    ```sh
-   git clone https://github.com/V1stionaries-Landcover-Classification.git
+   git clone https://github.com/V1sionaries-Landcover-Classification.git
    ```
 ## Roadmap
 
