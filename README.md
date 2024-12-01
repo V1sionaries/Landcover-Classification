@@ -25,7 +25,7 @@
     <img src="Misc/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Landcover Classifiation</h3>
+<h3 align="center">Landcover Classification</h3>
 
   <p align="center">
     A Computer Vision Model For Classifying Terrain.  
