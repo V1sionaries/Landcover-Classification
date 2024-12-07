@@ -54,8 +54,38 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+### A Larger Initiative: BioSCape
 
-This program was completed as a capstone project among four students at Sonoma State University in fall 2024. 
+This project is part of the larger **BioSCape** initiative, a collaboration aimed at understanding biodiversity in the Greater Cape Floristic Region. 
+
+The **Biodiversity Survey of the Cape** is a NASA-SANSA Biodiversity research project focused on the Greater Cape Floristic Region of South Africa.
+
+- This initiative utilizes hyperspectral images captured by the AVIRIS-NG remote sensor to analyze and classify land cover types. These hyperspectral images, containing 432 bands, provide detailed spectral data that enable precise classification across diverse ecological categories.
+
+Learn more about [BioSCape](https://www.bioscape.io).
+
+### Land Cover Classification Categories
+
+- **Wetlands**
+- **Planted Forest**
+- **Permanent Crops** (e.g., vineyard)
+- **Unconsolidated Barren**
+- **Natural Grassland**
+- **Consolidated Barren** (e.g., rocks, salt pans)
+- **Built-up Areas**
+- **Mixed or Not Classified**
+- **Natural Wooded Land**
+- **Waterbodies**
+- **Annual Crops** (e.g., wheat)
+- **Shrubs**
+
+### Objectives
+
+1. **Hyperspectral Land Cover Mapping**  
+   Leveraged hyperspectral imaging from the remote sensor AVIRIS-NG to classify the terrain into the categories listed above.
+
+2. **2D Classification Approach**  
+   Explored a two-dimensional (2D) methodology for land cover classification.
 
 <!-- GETTING STARTED -->
 <a id="readme-getting-started"></a>
