@@ -14,7 +14,6 @@ annual crops (e.g wheat),13
 shrubs,14
 unconsolidated barren,17
 shrubs,18
-mixed or not classified,19
 shrubs,22
 shrubs,23
 shrubs,24
@@ -39,7 +38,6 @@ natural wooded land,46
 unconsolidated barren,47
 shrubs,48
 unconsolidated barren,49
-mixed or not classified,51
 shrubs,60
 shrubs,65
 shrubs,67
@@ -54,18 +52,14 @@ shrubs,116
 shrubs,118
 shrubs,120
 shrubs,134
-mixed or not classified,135
 shrubs,138
 shrubs,141
-mixed or not classified,160
-mixed or not classified,179
 natural wooded land,181
 shrubs,185
 shrubs,197
 natural wooded land,199
 shrubs,210
 unconsolidated barren,213
-mixed or not classified,219
 shrubs,232
 shrubs,255
 shrubs,257
@@ -100,12 +94,10 @@ natural wooded land,403
 "consolidated barren (rocks, salt pans)",440
 shrubs,441
 shrubs,491
-mixed or not classified,560
 shrubs,568
 "consolidated barren (rocks, salt pans)",573
 "consolidated barren (rocks, salt pans)",590
 shrubs,656
-mixed or not classified,691
 shrubs,706
 "consolidated barren (rocks, salt pans)",738
 shrubs,759
@@ -116,7 +108,6 @@ shrubs,762
 shrubs,880
 shrubs,953
 shrubs,993
-mixed or not classified,1029
 shrubs,1034
 shrubs,1054
 shrubs,1055
@@ -128,17 +119,14 @@ shrubs,1090
 shrubs,1091
 annual crops (e.g wheat),1092
 annual crops (e.g wheat),1134
-mixed or not classified,1147
 shrubs,1148
 unconsolidated barren,1149
 natural wooded land,1162
-mixed or not classified,1169
 unconsolidated barren,1180
 annual crops (e.g wheat),1181
 shrubs,1184
 annual crops (e.g wheat),1224
 natural grassland,1229
-mixed or not classified,1238
 natural grassland,1248
 natural grassland,1249
 annual crops (e.g wheat),1250
@@ -148,11 +136,9 @@ natural wooded land,1254
 natural grassland,1255
 shrubs,1256
 shrubs,1257
-mixed or not classified,1258
 natural wooded land,1259
 shrubs,1260
 shrubs,1261
-mixed or not classified,1262
 natural grassland,1272
 shrubs,1273
 shrubs,1274
@@ -160,9 +146,7 @@ natural wooded land,1276
 unconsolidated barren,1278
 natural wooded land,1291
 shrubs,1292
-mixed or not classified,1293
 unconsolidated barren,1294
-mixed or not classified,1295
 shrubs,1297
 natural grassland,1302
 built-up,1309
@@ -200,13 +184,11 @@ natural grassland,1840
 natural grassland,1841
 shrubs,1842
 natural grassland,1843
-mixed or not classified,1847
 natural wooded land,1851
 "consolidated barren (rocks, salt pans)",1852
 "consolidated barren (rocks, salt pans)",1853
 shrubs,1894
 annual crops (e.g wheat),1903
-mixed or not classified,1916
 shrubs,1919
 shrubs,1922
 "consolidated barren (rocks, salt pans)",1937
@@ -214,7 +196,6 @@ shrubs,1922
 "consolidated barren (rocks, salt pans)",1960
 shrubs,1969
 shrubs,1970
-mixed or not classified,1971
 shrubs,1976
 shrubs,1978
 shrubs,1982
@@ -224,8 +205,6 @@ natural wooded land,2021
 shrubs,2024
 shrubs,2025
 shrubs,2026
-mixed or not classified,2027
-mixed or not classified,2028
 annual crops (e.g wheat),2029
 annual crops (e.g wheat),2030
 annual crops (e.g wheat),2034
@@ -235,28 +214,22 @@ annual crops (e.g wheat),2046
 "consolidated barren (rocks, salt pans)",2047
 "consolidated barren (rocks, salt pans)",2048
 "consolidated barren (rocks, salt pans)",2051
-mixed or not classified,2055
 natural grassland,2064
 "consolidated barren (rocks, salt pans)",2067
 "consolidated barren (rocks, salt pans)",2068
 "consolidated barren (rocks, salt pans)",2069
 "consolidated barren (rocks, salt pans)",2070
 annual crops (e.g wheat),2072
-mixed or not classified,2090
 shrubs,2091
 annual crops (e.g wheat),2094
 natural wooded land,2099
 natural wooded land,2100
 annual crops (e.g wheat),2105
 annual crops (e.g wheat),2107
-mixed or not classified,2109
 annual crops (e.g wheat),2110
-mixed or not classified,2111
 annual crops (e.g wheat),2112
 annual crops (e.g wheat),2113
 annual crops (e.g wheat),2114
-mixed or not classified,2116
-mixed or not classified,2119
 natural grassland,2154
 natural wooded land,2168
 annual crops (e.g wheat),2183
@@ -305,7 +278,6 @@ shrubs,2351
 unconsolidated barren,2352
 unconsolidated barren,2353
 shrubs,2359
-mixed or not classified,2360
 "consolidated barren (rocks, salt pans)",2373
 "consolidated barren (rocks, salt pans)",2375
 "consolidated barren (rocks, salt pans)",2378
@@ -314,14 +286,11 @@ mixed or not classified,2360
 annual crops (e.g wheat),2402
 annual crops (e.g wheat),2407
 shrubs,2411
-mixed or not classified,2430
 shrubs,2437
 natural wooded land,2456
 natural wooded land,2468
-wetlands,2474
 shrubs,2475
 shrubs,2511
-mixed or not classified,2515
 shrubs,2520
 natural wooded land,2521
 shrubs,2535
@@ -343,27 +312,18 @@ shrubs,2727
 shrubs,2745
 shrubs,2751
 shrubs,2753
-mixed or not classified,2783
 waterbodies,2789
 waterbodies,2794
-mixed or not classified,2799
 annual crops (e.g wheat),2826
 annual crops (e.g wheat),2827
 "permanent crops (e.g., vineyard)",2828
-mixed or not classified,2841
-mixed or not classified,2842
-mixed or not classified,2843
 natural wooded land,2844
 natural wooded land,2845
 natural wooded land,2846
 natural wooded land,2847
 natural grassland,2848
 natural wooded land,2849
-mixed or not classified,2850
-mixed or not classified,2851
 natural grassland,2852
-planted forest,2853
-mixed or not classified,2854
 annual crops (e.g wheat),2855
 annual crops (e.g wheat),2856
 annual crops (e.g wheat),2872
@@ -406,7 +366,6 @@ shrubs,3434
 natural grassland,3435
 annual crops (e.g wheat),3436
 natural grassland,3437
-mixed or not classified,3439
 built-up,3467
 built-up,3468
 natural wooded land,3471
@@ -420,22 +379,17 @@ natural grassland,3482
 shrubs,3483
 shrubs,3484
 shrubs,3485
-mixed or not classified,3486
-mixed or not classified,3487
 built-up,3490
 annual crops (e.g wheat),3504
 annual crops (e.g wheat),3516
 shrubs,3543
-mixed or not classified,3558
 shrubs,3559
-mixed or not classified,3560
 natural grassland,3561
 shrubs,3562
 shrubs,3564
 natural grassland,3565
 natural grassland,3566
 natural wooded land,3574
-mixed or not classified,3575
 shrubs,3592
 shrubs,3608
 shrubs,3613
@@ -444,11 +398,6 @@ shrubs,3635
 natural wooded land,3642
 natural grassland,3662
 shrubs,3665
-mixed or not classified,3670
-mixed or not classified,3699
-mixed or not classified,3700
-mixed or not classified,3701
-mixed or not classified,3702
 shrubs,3703
 shrubs,3704
 shrubs,3705
@@ -456,14 +405,11 @@ unconsolidated barren,3706
 "permanent crops (e.g., vineyard)",3707
 "permanent crops (e.g., vineyard)",3708
 annual crops (e.g wheat),3734
-mixed or not classified,3738
 annual crops (e.g wheat),3739
 annual crops (e.g wheat),3740
-mixed or not classified,3759
 annual crops (e.g wheat),3761
 annual crops (e.g wheat),3766
 unconsolidated barren,3768
-mixed or not classified,3769
 shrubs,3774
 shrubs,3775
 shrubs,3776
@@ -475,11 +421,9 @@ annual crops (e.g wheat),3796
 annual crops (e.g wheat),3797
 annual crops (e.g wheat),3798
 annual crops (e.g wheat),3799
-mixed or not classified,3800
 built-up,3801
 built-up,3802
 annual crops (e.g wheat),3816
-mixed or not classified,3824
 shrubs,3825
 shrubs,3826
 shrubs,3829
@@ -487,7 +431,6 @@ natural wooded land,3830
 annual crops (e.g wheat),3831
 annual crops (e.g wheat),3832
 annual crops (e.g wheat),3833
-mixed or not classified,3835
 shrubs,3851
 shrubs,3869
 shrubs,3882
@@ -527,9 +470,7 @@ annual crops (e.g wheat),4026
 shrubs,4027
 natural wooded land,4064
 shrubs,4071
-mixed or not classified,4079
 shrubs,4112
-mixed or not classified,4116
 natural wooded land,4151
 shrubs,4161
 natural wooded land,4168
@@ -545,18 +486,15 @@ shrubs,4288
 shrubs,4294
 shrubs,4299
 shrubs,4314
-mixed or not classified,4316
 shrubs,4332
 shrubs,4333
 shrubs,4378
 shrubs,4403
-mixed or not classified,4413
 shrubs,4435
 shrubs,4450
 shrubs,4452
 shrubs,4469
 shrubs,4472
-mixed or not classified,4477
 shrubs,4481
 natural wooded land,4490
 shrubs,4505
@@ -567,10 +505,7 @@ shrubs,4545
 natural wooded land,4579
 shrubs,4588
 shrubs,4604
-mixed or not classified,4605
 shrubs,4610
-mixed or not classified,4611
-mixed or not classified,4629
 shrubs,4661
 shrubs,4681
 "consolidated barren (rocks, salt pans)",4698
@@ -602,7 +537,6 @@ annual crops (e.g wheat),4854
 "permanent crops (e.g., vineyard)",4855
 "permanent crops (e.g., vineyard)",4856
 "consolidated barren (rocks, salt pans)",4859
-mixed or not classified,4860
 shrubs,4875
 shrubs,4876
 shrubs,4877
@@ -615,8 +549,6 @@ shrubs,4884
 annual crops (e.g wheat),4885
 annual crops (e.g wheat),4890
 annual crops (e.g wheat),4901
-mixed or not classified,4902
-mixed or not classified,4903
 shrubs,4906
 shrubs,4907
 annual crops (e.g wheat),4908
@@ -669,7 +601,6 @@ annual crops (e.g wheat),4998
 annual crops (e.g wheat),5029
 "permanent crops (e.g., vineyard)",5030
 built-up,5031
-mixed or not classified,5032
 built-up,5033
 natural wooded land,5034
 shrubs,5035
@@ -677,7 +608,6 @@ shrubs,5036
 natural wooded land,5037
 shrubs,5038
 natural grassland,5039
-mixed or not classified,5040
 natural grassland,5041
 "permanent crops (e.g., vineyard)",5042
 natural wooded land,5053
@@ -690,7 +620,6 @@ natural grassland,5065
 natural wooded land,5092
 "consolidated barren (rocks, salt pans)",5094
 shrubs,5095
-mixed or not classified,5096
 natural wooded land,5097
 unconsolidated barren,5098
 natural wooded land,5099
@@ -698,7 +627,6 @@ shrubs,5113
 shrubs,5114
 shrubs,5135
 unconsolidated barren,5141
-mixed or not classified,5149
 shrubs,5154
 shrubs,5155
 shrubs,5161
@@ -715,7 +643,6 @@ shrubs,5251
 shrubs,5276
 shrubs,5283
 natural grassland,5286
-mixed or not classified,5299
 shrubs,5302
 shrubs,5304
 shrubs,5306
@@ -728,11 +655,8 @@ natural wooded land,5368
 "consolidated barren (rocks, salt pans)",5374
 shrubs,5375
 shrubs,5376
-mixed or not classified,5377
-mixed or not classified,5378
 annual crops (e.g wheat),5381
 annual crops (e.g wheat),5387
-planted forest,5390
 shrubs,5393
 natural wooded land,5394
 shrubs,5395
@@ -741,7 +665,6 @@ annual crops (e.g wheat),5406
 annual crops (e.g wheat),5408
 natural wooded land,5409
 natural wooded land,5410
-mixed or not classified,5411
 natural wooded land,5412
 natural wooded land,5413
 natural grassland,5414
@@ -762,17 +685,13 @@ natural wooded land,5459
 natural wooded land,5460
 natural wooded land,5469
 annual crops (e.g wheat),5472
-planted forest,5473
 natural wooded land,5474
 shrubs,5475
 shrubs,5476
-planted forest,5477
 shrubs,5478
 shrubs,5479
 shrubs,5480
-planted forest,5481
 shrubs,5485
-planted forest,5487
 shrubs,5488
 shrubs,5490
 shrubs,5491
@@ -795,13 +714,10 @@ shrubs,5567
 built-up,5570
 annual crops (e.g wheat),5575
 natural wooded land,5580
-planted forest,5586
-planted forest,5587
 shrubs,5589
 shrubs,5590
 natural grassland,5594
 shrubs,5597
-planted forest,5611
 built-up,5623
 built-up,5624
 annual crops (e.g wheat),5627
@@ -815,7 +731,6 @@ shrubs,5642
 annual crops (e.g wheat),5643
 annual crops (e.g wheat),5645
 annual crops (e.g wheat),5647
-planted forest,5653
 annual crops (e.g wheat),5655
 annual crops (e.g wheat),5657
 annual crops (e.g wheat),5658
@@ -829,8 +744,6 @@ shrubs,5680
 shrubs,5681
 natural wooded land,5682
 natural wooded land,5683
-planted forest,5684
-planted forest,5687
 annual crops (e.g wheat),5689
 natural grassland,5691
 annual crops (e.g wheat),5693
@@ -841,11 +754,9 @@ built-up,5698
 built-up,5699
 built-up,5700
 built-up,5701
-mixed or not classified,5702
 "permanent crops (e.g., vineyard)",5703
 "permanent crops (e.g., vineyard)",5704
 annual crops (e.g wheat),5706
-planted forest,5711
 natural wooded land,5718
 shrubs,5720
 natural wooded land,5721
@@ -862,8 +773,6 @@ natural wooded land,5744
 natural grassland,5757
 shrubs,5758
 annual crops (e.g wheat),5764
-planted forest,5771
-mixed or not classified,5772
 built-up,5773
 built-up,5774
 built-up,5777
@@ -891,12 +800,10 @@ natural wooded land,5900
 built-up,5902
 built-up,5903
 built-up,5916
-planted forest,5919
 shrubs,5926
 shrubs,5928
 shrubs,5929
 shrubs,5930
-planted forest,5931
 shrubs,5932
 shrubs,5933
 shrubs,5934
@@ -918,10 +825,6 @@ natural wooded land,5994
 natural wooded land,5995
 natural wooded land,5996
 natural wooded land,5998
-planted forest,5999
-planted forest,6000
-mixed or not classified,6001
-planted forest,6005
 built-up,6007
 built-up,6008
 natural grassland,6009
@@ -954,9 +857,7 @@ shrubs,6201
 "consolidated barren (rocks, salt pans)",6250
 shrubs,6285
 shrubs,6303
-planted forest,6352
 shrubs,6356
-mixed or not classified,6362
 built-up,6368
 built-up,6369
 "permanent crops (e.g., vineyard)",6371
@@ -964,8 +865,6 @@ built-up,6369
 built-up,6383
 built-up,6384
 shrubs,6385
-planted forest,6386
-planted forest,6387
 shrubs,6388
 shrubs,6389
 shrubs,6390
@@ -973,11 +872,9 @@ shrubs,6401
 shrubs,6402
 natural wooded land,6415
 natural wooded land,6417
-planted forest,6460
 shrubs,6462
 natural wooded land,6475
 natural wooded land,6495
-mixed or not classified,6503
 natural wooded land,6530
 natural wooded land,6551
 natural wooded land,6556
@@ -991,14 +888,12 @@ shrubs,6664
 shrubs,6674
 shrubs,6677
 shrubs,6685
-mixed or not classified,6694
 natural wooded land,6702
 natural wooded land,6704
 natural wooded land,6709
 shrubs,6715
 natural wooded land,6746
 natural grassland,6757
-mixed or not classified,6761
 natural wooded land,6794
 natural wooded land,6824
 natural grassland,6827
@@ -1018,7 +913,6 @@ natural grassland,7011
 natural grassland,7013
 natural wooded land,7022
 shrubs,7044
-mixed or not classified,7068
 "consolidated barren (rocks, salt pans)",7080
 "consolidated barren (rocks, salt pans)",7081
 "consolidated barren (rocks, salt pans)",7082
@@ -1027,12 +921,10 @@ mixed or not classified,7068
 "consolidated barren (rocks, salt pans)",7085
 shrubs,7086
 natural wooded land,7087
-mixed or not classified,7089
 shrubs,7091
 "consolidated barren (rocks, salt pans)",7092
 "consolidated barren (rocks, salt pans)",7093
 "consolidated barren (rocks, salt pans)",7094
-mixed or not classified,7097
 shrubs,7098
 shrubs,7099
 "consolidated barren (rocks, salt pans)",7100
@@ -1065,7 +957,6 @@ waterbodies,7278
 waterbodies,7280
 waterbodies,7292
 natural wooded land,7301
-planted forest,7303
 annual crops (e.g wheat),7308
 annual crops (e.g wheat),7326
 "permanent crops (e.g., vineyard)",7327
@@ -1086,9 +977,6 @@ waterbodies,7400
 waterbodies,7406
 natural grassland,7410
 unconsolidated barren,7412
-mixed or not classified,7413
-wetlands,7414
-wetlands,7415
 "consolidated barren (rocks, salt pans)",7416
 natural grassland,7424
 waterbodies,7436
@@ -1199,7 +1087,6 @@ annual crops (e.g wheat),8175
 "consolidated barren (rocks, salt pans)",8185
 "consolidated barren (rocks, salt pans)",8186
 "consolidated barren (rocks, salt pans)",8187
-mixed or not classified,8188
 natural wooded land,8191
 built-up,8195
 built-up,8201
@@ -1209,11 +1096,9 @@ built-up,8212
 built-up,8214
 waterbodies,8220
 shrubs,8222
-planted forest,8227
 shrubs,8228
 annual crops (e.g wheat),8230
 natural wooded land,8232
-mixed or not classified,8233
 natural wooded land,8234
 unconsolidated barren,8235
 built-up,8236
@@ -1238,7 +1123,6 @@ built-up,8288
 built-up,8289
 built-up,8290
 built-up,8292
-mixed or not classified,8301
 shrubs,8302
 shrubs,8303
 "consolidated barren (rocks, salt pans)",8304
@@ -1252,8 +1136,6 @@ shrubs,8353
 annual crops (e.g wheat),8354
 annual crops (e.g wheat),8356
 annual crops (e.g wheat),8363
-mixed or not classified,8376
-mixed or not classified,8377
 annual crops (e.g wheat),8378
 annual crops (e.g wheat),8381
 annual crops (e.g wheat),8386
@@ -1274,7 +1156,6 @@ annual crops (e.g wheat),8432
 annual crops (e.g wheat),8440
 annual crops (e.g wheat),8456
 annual crops (e.g wheat),8457
-planted forest,8460
 shrubs,8461
 annual crops (e.g wheat),8464
 annual crops (e.g wheat),8466
@@ -1362,7 +1243,6 @@ shrubs,8875
 shrubs,8908
 "consolidated barren (rocks, salt pans)",8910
 shrubs,8929
-mixed or not classified,8932
 natural wooded land,8953
 shrubs,8963
 "consolidated barren (rocks, salt pans)",8978
@@ -1388,7 +1268,6 @@ natural grassland,9315
 "consolidated barren (rocks, salt pans)",9320
 "consolidated barren (rocks, salt pans)",9325
 "consolidated barren (rocks, salt pans)",9346
-mixed or not classified,9347
 shrubs,9349
 shrubs,9350
 shrubs,9352
@@ -1413,7 +1292,6 @@ natural grassland,9525
 built-up,9529
 natural wooded land,9530
 built-up,9531
-mixed or not classified,9533
 shrubs,9534
 "consolidated barren (rocks, salt pans)",9536
 "consolidated barren (rocks, salt pans)",9538
@@ -1429,7 +1307,6 @@ shrubs,9572
 natural grassland,9590
 natural grassland,9600
 shrubs,9601
-mixed or not classified,9607
 natural grassland,9616
 shrubs,9619
 "consolidated barren (rocks, salt pans)",9620
@@ -1468,8 +1345,6 @@ waterbodies,10240
 waterbodies,10241
 built-up,10244
 built-up,10245
-mixed or not classified,10246
-mixed or not classified,10263
 shrubs,10267
 shrubs,10288
 shrubs,10290
@@ -1505,7 +1380,6 @@ waterbodies,10434
 annual crops (e.g wheat),10438
 annual crops (e.g wheat),10439
 annual crops (e.g wheat),10441
-mixed or not classified,10445
 shrubs,10457
 natural wooded land,10465
 shrubs,10466
@@ -1635,7 +1509,6 @@ natural grassland,11075
 built-up,11079
 built-up,11080
 annual crops (e.g wheat),11082
-wetlands,11086
 natural grassland,11087
 shrubs,11088
 annual crops (e.g wheat),11089
@@ -1666,11 +1539,8 @@ annual crops (e.g wheat),11236
 shrubs,11238
 shrubs,11239
 annual crops (e.g wheat),11241
-wetlands,11252
 shrubs,11253
 shrubs,11254
-wetlands,11258
-wetlands,11261
 waterbodies,11269
 waterbodies,11321
 waterbodies,11332
