@@ -23,7 +23,7 @@
     <br />
     <br />
       🎥 Watch the project 
-      <a href="link_to_project_video">video</a>
+      <a href="https://youtu.be/SYP3Ap-Pewc">video</a>
     <br />
 </p>
 </div>
