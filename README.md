@@ -18,12 +18,14 @@
 
 <h3 align="center">Landcover Classification</h3>
 
-  <p align="center">
+<p align="center">
     A Computer Vision Model For Classifying Terrain.  
     <br />
     <br />
-    <a href="https://github.com/V1sionaries/Landcover-Classification/blob/main/README.md"><strong>Explore the docs »</strong></a>
-  </p>
+      🎥 Watch the project 
+      <a href="link_to_project_video">video</a>
+    <br />
+</p>
 </div>
 
 
@@ -54,6 +56,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
+This project was completed as a senior capstone project at Sonoma State University in fall 2024. 
+
 ### A Larger Initiative: BioSCape
 
 This project is part of the larger **BioSCape** initiative, a collaboration aimed at understanding biodiversity in the Greater Cape Floristic Region. 
