@@ -90,7 +90,7 @@ Learn more about [BioSCape](https://www.bioscape.io).
    Leveraged hyperspectral imaging from the remote sensor AVIRIS-NG to classify the terrain into the categories listed above.
 
 2. **2D Classification Approach**  
-   Explored a two-dimensional (2D) methodology for land cover classification.
+   Explored a two-dimensional (2D) methodology for land cover classification. See the 1D approach [here](https://github.com/harrisb002/Hyperspectral-Landcover-Classification).
 
 <!-- GETTING STARTED -->
 <a id="readme-getting-started"></a>
