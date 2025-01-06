@@ -142,7 +142,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [stars-url]: https://github.com/V1sionaries/Landcover-Classification/stargazers
 [issues-shield]: https://img.shields.io/github/issues/V1sionaries/Landcover-Classification.svg?style=for-the-badge
 [issues-url]: https://github.com/V1sionaries/Landcover-Classification/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/V1sionaries/Landcover-Classification.svg?style=for-the-badge
 
 [license-url]: https://github.com/V1sionaries/Landcover-Classification/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
