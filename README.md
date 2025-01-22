@@ -21,6 +21,8 @@
 <p align="center">
     A Computer Vision Model For Classifying Terrain.  
     <br />
+    ⭐️ As Featured on 
+    <a href="https://cs.sonoma.edu/articles/2024/ssu-students-showcase-their-fall-2024-senior-capstone-projects">Sonoma.edu</a>
     <br />
       🎥 Watch the project 
       <a href="https://youtu.be/SYP3Ap-Pewc">video</a>
